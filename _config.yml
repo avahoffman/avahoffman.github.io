@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+remote_theme:     fongandrew/hydeout
 
 # Setup
 title:            Ava M. Hoffman
@@ -27,7 +28,6 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   
-remote_theme: fongandrew/hydeout
 
 # Sidebar link settings
 sidebar_home_link:  true
