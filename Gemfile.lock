@@ -247,7 +247,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages
+  github-pages (~> 204)
   jekyll-theme-hydeout (~> 3.4)
 
 BUNDLED WITH
