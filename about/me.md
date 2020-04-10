@@ -14,6 +14,10 @@ sidebar_link: true
 
 <p>
     <img class="nolinkicon" src="../img/envelope.svg" /> avamariehoffman (at) gmail.com 
+</p>
+<p>
+    <img class="nolinkicon" src="../img/pin.svg" /> Johns Hopkins University, Baltimore, USA 
+</p>
 <p>
     <img class="nolinkicon" src="../img/cv.svg" /> 
         <a href="https://github.com/avahoffman/CV-and-resumes/blob/master/Academic_CV/Ava%20Hoffman%20CV.pdf">Curriculum Vitae</a>
