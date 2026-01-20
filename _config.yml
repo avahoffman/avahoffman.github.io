@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Ava Hoffman"
+  pronouns         : "she/her"  
+  bio              : "Senior Scientist at Fred Hutch Cancer Center studying genetics, ecology, and data science education."
+  location         : "Baltimore, USA"
+  employer         : "Fred Hutch Cancer Center"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ahoffma2@fredhutch.org" 
 
   # Academic websites
   academia         : # URL
