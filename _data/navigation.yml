@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: https://www.avahoffman.com/publications
+    url: /publications/
 
   - title: "Talks"
     url: /talks/    
