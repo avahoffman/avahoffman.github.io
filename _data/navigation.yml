@@ -19,9 +19,9 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+   
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   - title: "CV"
     url: https://github.com/avahoffman/CV-and-resumes/blob/master/Academic_CV/Ava%20Hoffman%20CV.pdf
