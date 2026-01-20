@@ -23,7 +23,7 @@ repository               : "avahoffman/avahoffman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "daseh.jpg"
   name             : "Ava Hoffman"
   pronouns         : "she/her"  
   bio              : "Senior Scientist at Fred Hutch Cancer Center studying genetics, ecology, and data science education."
